@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me : 
 I am a computer science student at Clemson University
-- I am currently in my 3rd year at Clemson
+- I am currently in my 4th year at Clemson
 - I'm interested in the fields of data analytics, cybersecurity, and game design
 
 ---
