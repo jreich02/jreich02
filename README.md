@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me : 
 I am a graduate of computer science from Clemson University
-- I am currently in my 4th year at Clemson
+- I worked as a technical support specialist and IT Intern
 - I'm interested in the fields of quality assurance, data analytics, and IT administration
 
 ---
